@@ -1,0 +1,65 @@
+[{
+	"dir": "ask-an-architect",
+	"data": false
+}, {
+	"dir": "azami",
+	"data": false
+}, {
+	"dir": "benchmark-hub",
+	"data": false
+}, {
+	"dir": "wordpress",
+	"data": {
+		"name": "Home",
+		"description": "",
+		"url": "https:\/\/admin.blogs.pre.ibm.event.ibm.com\/blogs\/psirt-test",
+		"theme": {
+			"name": "ibmNorthstarThemeDev",
+			"version": "1.5.56"
+		}
+	}
+}, {
+	"dir": "wordpress copy",
+	"data": {
+		"name": "Home",
+		"description": "",
+		"url": "https:\/\/admin.blogs.pre.ibm.event.ibm.com\/blogs\/psirt-test",
+		"theme": {
+			"name": "ibmNorthstarThemeDev",
+			"version": "1.5.56"
+		}
+	}
+}, {
+	"dir": "wordpress copy 2",
+	"data": {
+		"name": "Home",
+		"description": "",
+		"url": "https:\/\/admin.blogs.pre.ibm.event.ibm.com\/blogs\/psirt-test",
+		"theme": {
+			"name": "ibmNorthstarThemeDev",
+			"version": "1.5.56"
+		}
+	}
+}, {
+	"dir": "wordpress copy 3",
+	"data": {
+		"name": "Home",
+		"description": "",
+		"url": "https:\/\/admin.blogs.pre.ibm.event.ibm.com\/blogs\/psirt-test",
+		"theme": {
+			"name": "ibmNorthstarThemeDev",
+			"version": "1.5.56"
+		}
+	}
+}, {
+	"dir": "wordpress copy 4",
+	"data": {
+		"name": "Home",
+		"description": "",
+		"url": "https:\/\/admin.blogs.pre.ibm.event.ibm.com\/blogs\/psirt-test",
+		"theme": {
+			"name": "ibmNorthstarThemeDev",
+			"version": "1.5.56"
+		}
+	}
+}]
